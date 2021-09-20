@@ -5,4 +5,4 @@ Each file contains information for specific tasks:
 1. web_scrap_templateV1 - a template use for gathering data via webscraping
 2. news_data_gathering - gathers data and converts it to a dataframe and csv file
 3. news_clean_tokens - provides EDA and cleaning of the most recent data gathered
-4. Modeling Notebook - Pending 
+4. Modeling Notebook - Includes Sentiment Analysis, Topic Modeling and KMeans Clusterting
